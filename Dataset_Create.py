@@ -159,9 +159,10 @@ for i in range(N):
         'age':maybe_null(age,0.02),
         'gender':maybe_null(gender,0.02),
         'state':state,
-        'remoteness_opts':remoteness,
+        'remoteness': remoteness,
         'insurance_type':maybe_null(insurance_type,0.03),
         'consultation_date':consultation_date,
+        'consultation_type':consultation_type,
         'platform':maybe_null(platform,0.03),
         'duration_mins':maybe_null(duration_mins,0.02),
         'repeat_patient':maybe_null(repeat_patient,0.03),
@@ -197,5 +198,5 @@ print(f"\n Missing values per column:")
 print(df.isnull().sum())
 print(f"\n Sample records:")
 print(df.head())
-df = pd.read_csv("C:/Users/kaila/PycharmProjects/TeleHealth_Adoption_Pattern.csv")
+
 
