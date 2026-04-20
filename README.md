@@ -59,3 +59,12 @@ Cap extended consults at 60 min  +0.020 pts
 Specialist virtual prep guide   +0.015 pts
 Remote connectivity support  +0.012 pts
 All combined           +0.124 pts
+
+
+## Key Takeaways
+
+Fix reliability, not the platform — investing in a new video platform will not improve satisfaction; ensuring the existing platform works reliably will
+Remote + elderly = highest risk intersection — these patients face both the most technical barriers and the lowest satisfaction scores
+Uninsured patients face a 12× cost gap — telehealth has not achieved cost equity for those without insurance
+Mental Health telehealth works — patients strongly prefer virtual delivery for mental health; this is the consultation type where telehealth performs best
+43% usage decline is not failure — it reflects post-COVID normalisation, not disengagement; GP and Mental Health demand remains resilient
