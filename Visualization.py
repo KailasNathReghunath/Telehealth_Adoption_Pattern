@@ -1,13 +1,3 @@
-"""
-================================================================
-TELEHEALTH SATISFACTION DEEP DIVE
-Q: Does satisfaction vary by platform, consultation type,
-   duration, and demographics — and how do we improve it?
-================================================================
-Author  : Kailas Nath Reghunath
-Dataset : TeleHealth_Cleaned.csv
-================================================================
-"""
 
 import pandas as pd
 import numpy as np
